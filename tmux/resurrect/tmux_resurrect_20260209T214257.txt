@@ -1,0 +1,7 @@
+pane	1	1	1	:*	1	bola@DESKTOP-O3HE65S:~	:/home/bola	1	zsh	:
+pane	2	1	1	:*	1	bola@DESKTOP-O3HE65S:~	:/home/bola	1	zsh	:
+pane	4	1	1	:*	1	bola@DESKTOP-O3HE65S:~/dotfiles/tmux	:/home/bola/dotfiles/tmux	1	zsh	:
+window	1	1	:zsh	1	:*	c8be,133x28,0,0,1	:
+window	2	1	:zsh	1	:*	c8bf,133x28,0,0,2	:
+window	4	1	:zsh	1	:*	c8c0,133x28,0,0,3	:
+state	2	4
