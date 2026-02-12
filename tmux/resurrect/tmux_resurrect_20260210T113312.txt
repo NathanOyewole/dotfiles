@@ -1,0 +1,5 @@
+pane	0	2	1	:*	1	bola@DESKTOP-O3HE65S:~/lovely-moments	:/home/bola/lovely-moments	1	zsh	:
+pane	1	1	1	:*	1	nvim _layout.tsx	:/home/bola/lovely-moments/app	1	nvim	:nvim _layout.tsx
+window	0	2	:rust-lang	1	:*	c0be,133x26,0,0,1	off
+window	1	1	:nvim	1	:*	b85f,88x15,0,0,2	:
+state	1	

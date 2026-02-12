@@ -123,3 +123,5 @@ alias cd='z'
 alias ping='gping'
 alias px='procs'
 alias vi='nvim'
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"

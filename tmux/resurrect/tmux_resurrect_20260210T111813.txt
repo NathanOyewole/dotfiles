@@ -1,0 +1,5 @@
+pane	0	2	1	:*	1	npx run start	:/home/bola/lovely-moments	1	npm	:npm exec run start
+pane	1	1	1	:*	1	bola@DESKTOP-O3HE65S:~/lovely-moments	:/home/bola/lovely-moments	1	zsh	:
+window	0	2	:rust-lang	1	:*	c0be,133x26,0,0,1	off
+window	1	1	:zsh	1	:*	c0bf,133x26,0,0,2	:
+state	0	

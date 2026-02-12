@@ -1,0 +1,3 @@
+pane	0	2	1	:*	1	npx create-expo-app@latest lovely-moments --yes; z lovely-moments	:/home/bola	1	npm	:npm exec create-expo-app@latest lovely-moments --yes
+window	0	2	:rust-lang	1	:*	c0be,133x26,0,0,1	off
+state	0	
